@@ -1,0 +1,156 @@
+.navbar{
+     height: 50px;
+
+}
+
+.nav-elements-container{
+    float: right;
+}
+
+.nav-elements-email {
+    font-size: 20px;
+    text-align: center;
+     width: 90px;
+  display: inline-block;
+  line-height: 70px;
+  height: 70px;
+}
+
+.nav-elements-images{
+    font-size: 20px;
+    text-align: center;
+     width: 90px;
+  display: inline-block;
+  line-height: 70px;
+  height: 70px;
+
+}
+.fa-th .fa-bell{
+        width: 100px;
+        display: inline-block;
+  line-height: 70px;
+  height: 70px;
+}
+
+.logo-container img{
+    display: block;
+    margin: auto;
+  width: 306px;
+padding-top: 120px;
+padding-left: 290px;
+
+}
+
+.Search-container{
+    margin: 30px auto;
+    width: 620px;
+}
+.Search-container input{
+padding: 2px;
+}
+
+.Search-container .search-bar{
+  font-size: 20px;
+  line-height: 30px;
+  display: block;
+  width: 600px;
+   padding-left: 12px;
+  border: 1px solid gray;
+}
+
+.voicespan{
+  float: right;
+  height: 20px;
+  width: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+ margin-top: -30px;
+ color: blue;
+
+}
+
+.Search-container .search-submit-first{
+  line-height: 20px;
+  font-size: 14px;
+  border: 1px solid gray;
+  width: 136px;
+  margin-left: 156px;
+  margin-top: 10px;
+}
+
+.Search-container .search-submit-second{
+  line-height: 20px;
+  font-size: 14px;
+  border: 1px solid gray;
+  width: 136px;
+  margin-left: 16px;
+  margin-top: 10px;
+}
+
+.footer-elements{
+    height: 20px;
+  border: 1px solid black;
+position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+}
+
+.footer-elements-first  {
+     line-height: 20px;
+    font-size: 15px;
+    width: 90px;
+    float: left;
+
+}
+
+.footer-elements-second  {
+     line-height: 20px;
+    font-size: 15px;
+    width: 90px;
+    float: left;
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+
+.footer-elements-third  {
+     line-height: 20px;
+    font-size: 15px;
+    width: 60px;
+    float: left;
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+
+.footer-elements-forth  {
+     line-height: 20px;
+    font-size: 15px;
+    width: 60px;
+    float: right;
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+.footer-elements-fifth  {
+     line-height: 20px;
+    font-size: 15px;
+    width: 60px;
+    float: right;
+    margin-left: 10px;
+    padding-left: 15px;
+
+}
+.footer-elements-sixth  {
+     line-height: 20px;
+    font-size: 15px;
+    width: 60px;
+    float: right;
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+
